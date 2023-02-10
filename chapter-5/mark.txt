@@ -1,0 +1,8 @@
+Siva : 90
+Vinay : 100
+Vamsi : 30
+tarun : 70
+mani : 80
+farook : 95
+vikram : 66
+mohan : 77
